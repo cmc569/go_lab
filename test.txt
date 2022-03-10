@@ -3,4 +3,6 @@ this is a testing file
 fndfeig
 ssss
 
+new line
+
 the end.
